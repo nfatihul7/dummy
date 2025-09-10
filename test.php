@@ -1,1 +1,1 @@
-<?= echo "aaa"; ?>
+<?= echo "Kegiatan arek lanang ora keduman bedel"; ?>
